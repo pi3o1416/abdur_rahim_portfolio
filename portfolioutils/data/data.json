@@ -1,0 +1,43 @@
+{
+    "userData": {
+        "name": "Abdur Rahim",
+        "picture": "",
+        "website": "www.facebook.com",
+        "phnNo": "+8801634330383",
+        "age": "32",
+        "city": "Dhaka, Bangladesh",
+        "degree": "Master",
+        "Freelance": false,
+        "identity": "Social Activist"
+    },
+    "pages": {
+        "home": {
+            "welcomeMessage": "Hello , I’m Monir Hossain Welcome to my World.",
+            "photos": {
+                "rightPhoto": ""
+            }
+        },
+        "about": {
+            "aboutTitle": "",
+            "aboutDescription": "",
+            "photo": {
+                "leftPhoto": ""
+            }
+        },
+        "resume": {
+            "services": {
+
+            },
+            "educations": {
+
+            },
+            "experience": {
+
+            }
+        }
+    },
+
+    "photos": {
+        "profilePhoto": ""
+    }
+}
